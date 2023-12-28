@@ -1,16 +1,33 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\flutter\\profile\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
+            "outputFile": "com.example.pricelist.app-mergeDebugResources-15:/values-en-rCA/values-en-rCA.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\florita\\.gradle\\caches\\transforms-3\\acbce933e4b464a5224ed377a62db1f5\\transformed\\core-1.6.0\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\7265626770990d5678a202ac07470f4b\\transformed\\browser-1.4.0\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,153,250,359",
+                        "endColumns": "97,96,108,98",
+                        "endOffsets": "148,245,354,453"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\fe846a72e8f8adc7809b13756f53d8ef\\transformed\\core-1.6.0\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
                         "endColumns": "100",
                         "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "458",
+                        "endColumns": "100",
+                        "endOffsets": "554"
                     }
                 }
             ]

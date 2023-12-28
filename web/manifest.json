@@ -1,6 +1,6 @@
 {
-    "name": "profile",
-    "short_name": "profile",
+    "name": "pricelist",
+    "short_name": "pricelist",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

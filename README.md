@@ -1,4 +1,4 @@
-# profile
+# pricelist
 
 A new Flutter project.
 
